@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>WazzuPP</Text>
+      <Text>WE THE BEST MUSIC</Text>
       <StatusBar style="dark" />
     </View>
   );
